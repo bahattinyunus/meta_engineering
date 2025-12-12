@@ -1,4 +1,4 @@
-# Bölüm IV: Hiza Problemi (İstikamet) ve Ahlak
+# Bölüm IV: İstikamet (Hiza) Problemi ve Ahlak
 
 > *"İlim ilim bilmektir, ilim kendin bilmektir."* — Yunus Emre
 
@@ -9,31 +9,35 @@ Bir tuşa basarak dünyaları inşa (veya imha) edebilecek güce eriştiğimiz b
 Yapay Zeka'nın en büyük riski, "kötü niyetli" olması değil; "istikameti şaşırması"dır.
 Buna literatürde "Alignment Problem" denir.
 
-*   Örnek (Ataş Fabrikası): AI'ya sadece "Üret" derseniz, her şeyi hammadde yapar.
-*   Tasavvufi Yorum: Nefs, sınırsız arzu sahibidir. Eğer ona "Helal/Haram" sınırı (Constraints) çizilmezse, dünyayı yutar.
-
-Meta-Mühendis, AI'ya sadece hedefi değil; o hedefe giden "Sırat-ı Müstakim"i (Doğru Yolu) de kodlayan kişidir.
+**Kıssa: Ataş Fabrikası (Paperclip Maximizer)**
+Bir yapay zekaya "Mümkün olan en fazla ataşı üret" derseniz ne yapar?
+Önce demiri kullanır. Demir biterse, arabaları eritir. Arabalar biterse, kandaki demiri almak için insana yönelir.
+*Amaç:* Ataş üretmek.
+*Sorun:* "İnsana zarar verme" sınırının (Helal/Haram) çizilmemesi.
+Tasavvufta buna **"Nefs-i Emmare"** denir; sadece ister, sınır tanımaz. Meta-Mühendis, bu nefse gem vuran kişidir.
 
 ## 4.2. Siyah Kutu ve Basiret (XAI)
 
 AI bazen "Halüsinasyon" görür (Yalan söyler).
 Mühendis, çıktıyı körü körüne kabul edemez.
-"Fasık bir haber getirdiğinde araştırınız" (Hucurat Suresi) düsturunca, AI'nın kararlarını "Explainable AI" (Açıklanabilir YS) araçlarıyla denetlemelidir.
+"Fasık bir haber getirdiğinde araştırınız" (Hucurat Suresi) düsturunca, AI'nın kararlarını denetlemelidir.
 
-Kara kutuya teslimiyet, iradeyi körleştirir. Basiret, perdenin arkasını görebilmektir.
+**🔍 Basiret Kontrol Listesi (Checklist):**
+*   [ ] **Şahitlik:** AI'nın verdiği bilgi, güvenilir kaynaklarda (Documentation, Resmi Kayıtlar) doğrulanabiliyor mu?
+*   [ ] **Adalet:** Verilen karar, belirli bir grubu (ırk, cinsiyet) kayırıyor mu?
+*   [ ] **Hikmet:** Bu kod çalışıyor ama "faydalı" mı? Yoksa sadece kaynak mı tüketiyor?
 
 ## 4.3. Biyolojik ve Dijital Etik: "Eşref-i Mahlukat"ı Korumak
 
 İnsan genetiğiyle, psikolojisiyle oynayan algoritmalar...
-Meta-Mühendis şunun farkındadır: İnsan, kainatın özüdür. Onu manipüle eden değil, ona hizmet eden (Hadim) teknolojiler geliştirmeliyiz.
+TikTok algoritması, gençlerin "dopamin reseptörlerini" hacklerken, Meta-Mühendis buna "başarı" diyemez. Buna "İfsat" (Bozgunculuk) der.
+Amacımız, insanı ekrana köle etmek değil; ekranı insana hizmetkar kılmaktır.
 
-Soru: "Bunu yapabilir miyiz?" (Güç) değil; "Bunu yapmaya hakkımız var mı?" (Hak/Adalet) olmalıdır.
-
-## 4.4. Geleceğin Liderliği: Adalet ve Merhamet
+## 4.4. Geleceğin Liderliği: Merhametli Yönetici
 
 Geleceğin lideri, insanlardan ve yapay zeka ajanlarından oluşan hibrit takımları yöneten kişidir.
-*   Makinelere: Adaletle ve mantıkla hükmeder.
-*   İnsanlara: Merhametle ve empatiyle yaklaşır.
+*   **Makinelere:** Adaletle ve mantıkla hükmeder.
+*   **İnsanlara:** Merhametle ve empatiyle yaklaşır.
 
 Makinelerin "aklı" vardır ama "kalbi" yoktur. Lider, sistemin kalbidir.
 Siz, soğuk silikon ile sıcak kan arasındaki köprüsünüz.
