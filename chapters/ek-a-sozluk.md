@@ -1,29 +1,25 @@
-# Ek A: Meta-Sözlük (Lugatçe)
+# Ek A: Meta-Mühendislik Sözlüğü
 
-> *"Kelimeler, mananın elbiseleridir."*
+**Agent (Ajan):** Belirli bir amacı gerçekleştirmek için otonom olarak plan yapan, araç kullanan ve hareket eden AI yazılım birimi.
 
-Bu yeni çağın ve yeni felsefenin kavramlarını anlamak için bir lügatçe.
+**Chain-of-Thought (Düşünce Zinciri):** LLM'lerin karmaşık problemleri adım adım bölerek çözmesini sağlayan prompt tekniği.
 
-## A - C
-*   **Alem-i Misal (Digital Twin):** Fiziksel alemin (Şehadet) sanal dünyadaki yansıması. Simülasyon evreni.
-*   **Basiret (Insight/XAI):** Görünenin arkasındaki hakikati görme. AI'nın "neden" karar verdiğini anlama yetisi.
-*   **Biyomimetik (Sünnetullah'ı Taklit):** Doğadaki ilahi sanatı ve mühendisliği (arı, karınca, nöron) modelleyerek teknoloji üretmek.
-*   **Cüz-i İrade (Prompt):** İnsanın seçme ve yönlendirme yetkisi. AI okyanusundan hangi veriyi çekeceğiniz sizin tercihinize (Niyet) bağlıdır.
+**Compute (Hesaplama Gücü):** Yapay zeka modellerini eğitmek ve çalıştırmak için gereken işlemci (GPU/TPU) kaynağı. Yeni çağın petrolü.
 
-## H - İ
-*   **Halüsinasyon (Zan):** Yapay zekanın gerçeği olmayan bir şeyi varmış gibi göstermesi.
-*   **Hiza Problemi (İstikamet):** Teknolojinin hedeflerini, insani ve ahlaki (fıtri) değerlerle uyumlu tutma çabası.
-*   **İstişare (Agentic Workflow):** Tek bir modele güvenmek yerine, farklı yeteneklerdeki AI ajanlarının "meşveret" ederek karar alması.
+**Context Window (Bağlam Penceresi):** Bir AI modelinin tek seferde "hatırlayabildiği" veya "işleyebildiği" bilgi miktarı.
 
-## K - M
-*   **Kesret (Big Data):** Veri çokluğu, yığını. Malumat enflasyonu.
-*   **Marifet (Knowledge/Wisdom):** Veriyi işleyerek "Hikmet"e dönüşmüş hali. Meta-Mühendisin hedefi.
-*   **Meta-Mühendis (Halife/Mimar):** Maddeye ve veriye hükmeden, sistem kuran, parçaları bütünleyen (Tevhid) uzman.
+**Digital Twin (Dijital İkiz):** Fiziksel bir varlığın veya sistemin, gerçek zamanlı verilerle senkronize edilen sanal kopyası.
 
-## O - T
-*   **Omega Noktası (Vuslat):** Evrenin kemale erme noktası.
-*   **Sünnetullah (Laws of Physics):** Allah'ın kainattaki değişmez yasaları. Mühendislik bu yasaları keşiftir.
-*   **Tevhid-i Tedrisat (Holistik Bakış):** Disiplinleri (Yazılım, Makine vs.) ayırmadan, ilmin birliği gözüyle bakmak.
+**Halüsinasyon:** AI modelinin gerçekte olmayan veya yanlış bir bilgiyi, kendinden emin bir şekilde doğruymuş gibi üretmesi.
 
-## Z
-*   **Zülcenaheyn (Pi-Shaped):** Çift kanatlı. Hem maddi (teknik) hem manevi (stratejik/etik) ilimlere sahip olan.
+**LLM (Large Language Model):** Büyük miktarda metin verisiyle eğitilmiş, insan benzeri metinleri anlama ve üretme yeteneğine sahip derin öğrenme modeli.
+
+**Meta-Mühendis:** Yapay zeka araçlarını kullanarak geleneksel mühendislik disiplinlerini sentezleyen, yöneten ve otonom sistemler tasarlayan yeni nesil mühendis.
+
+**Multimodal:** Sadece metin değil; görüntü, ses, video gibi farklı veri tiplerini aynı anda işleyebilen yapay zeka modelleri.
+
+**RAG (Retrieval-Augmented Generation):** AI modelinin eğitim verisinde olmayan güncel veya özel bilgilere, dışsal bir veritabanından erişerek cevap vermesini sağlayan teknik.
+
+**Singularity (Tekillik):** Yapay zekanın insan zekasını aştığı ve teknolojik gelişimin kontrol edilemez bir hıza ulaştığı hipotetik gelecek noktası.
+
+**Zero-Shot Learning:** Modelin özel olarak eğitilmediği bir görevi, sadece tanımlanarak yapabilmesi yeteneği.

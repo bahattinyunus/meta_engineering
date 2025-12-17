@@ -1,35 +1,45 @@
-# Hizmet ve İmece Rehberi (Contributing)
+# Katkı Protokolü (Contributing.exe)
 
-> *"İnsanların en hayırlısı, insanlara en çok faydası dokunandır."*
+> *"Geleceği compile etmeye hoş geldiniz."*
 
-Bu repoya hoş geldiniz. Burası sadece bir kod deposu değil; bir **Vakıf Eseri**dir.
-Burada yapılan her katkı (commit), dijital dünyada bırakılan bir **Sadaka-i Cariye** (Kalıcı İyilik) hükmündedir.
+Bu repository, statik bir kütüphane değil; sürekli gelişen dinamik bir bilgi tabanıdır (Living Knowledge Base). Sizin katkılarınız (Pull Requests), bu sistemin evriminde kritik birer mutasyon rolü oynar.
 
-## 🤝 Katkı Felsefesi: İmece Usulü
+## Git Akışı ve Katkı Mimarisi
 
-Bireysel kahramanlıklara değil, "Şahs-ı Manevi"ye (Kolektif Bilince) inanıyoruz.
-Bir elin nesi var, iki elin sesi var. AI ajanları bile "swarm" (sürü) halinde çalışırken, insanların yalnız çalışması abestir.
+Bireysel kahramanlıklar yerine, dağıtık ve versiyonlu bir işbirliği modelini benimsiyoruz.
 
-### Neler Yapabilirsiniz?
+### 1. Fork & Clone
+Ana depoda (Main Branch) doğrudan 'write' yetkiniz yoktur. Önce repoyu kendi alanınıza forklayın:
+```bash
+git clone https://github.com/bahattinyunus/meta.git
+```
 
-1.  **Tefekkür (Discussions):** Fikirlerinizi, eleştirilerinizi (edep dairesinde) paylaşın. "Müsademe-i efkardan barika-i hakikat doğar" (Fikirlerin çarpışmasından hakikat kıvılcımı çıkar).
-2.  **İmar (Pull Requests):**
-    *   Eksik gördüğünüz bir bölümü tamamlayın.
-    *   Hatalı bir bilgiyi (kul hatasıdır) düzeltin.
-    *   Kendi yazdığınız bir "Agent" veya "Prompt" örneğini ekleyin.
-3.  **Tebliğ (Sharing):** Bu vizyonu başkalarına duyurun.
+### 2. Dal Stratejisi (Branching Strategy)
+Asla `main` üzerinde çalışmayın. Yaptığınız işe uygun isimlendirilmiş bir dal (branch) açın:
 
-## 🛠️ Teknik Süreç (Usul ve Erkan)
+*   **Yeni Özellik/Bölüm:** `feature/bolum-adi` (Örn: `feature/bolum-06-bci`)
+*   **Düzeltme:** `fix/hata-tanimi` (Örn: `fix/readme-typo`)
+*   **İyileştirme:** `refactor/konu` (Örn: `refactor/kod-bloklari`)
 
-1.  **Niyet:** Önce niyetinizi halis tutun. "Ben yaptım" demek için değil, "Faydalı olsun" diye yapın.
-2.  **İstişare (Issue):** Büyük bir değişiklik yapmadan önce bir "Issue" açıp tartışalım.
-3.  **İcra (Fork & PR):** Repoyu forklayın, dalınızı (branch) açın ve kodunuzu gönderin.
-4.  **Üslup:** Kod yorumlarında ve commit mesajlarında temiz, anlaşılır ve nazik bir dil kullanın.
+### 3. Commit Düsturları
+Commit mesajlarınız gelişi güzel olmamalıdır. "Conventional Commits" standardını takip edin:
+*   `feat: Yeni bölüm 4 tasarımı eklendi`
+*   `fix: Markdown link hatası giderildi`
+*   `docs: README güncellendi`
 
-## ⚖️ Hakkın Teslimi (Lisans)
+> *İyi bir commit mesajı, gelecekteki Meta-Mühendislere bırakılmış bir nottur.*
 
-Bu proje açık kaynaktır. Bilgi paylaştıkça çoğalır (Bereketlenir).
-Ancak emek hırsızlığına (intihal) karşıyız. Kullandığınız kaynakları belirtmek, ilmin zekatıdır.
+### 4. Pull Request (PR) Süreci
+*   Değişikliklerinizi tamamladıktan sonra bir PR açın.
+*   PR açıklamanızda **NE** yaptığınızı ve **NEDEN** yaptığınızı detaylandırın.
+*   Varsa ilgili "Issue" numarasını referans verin.
+*   Code Review sürecinde gelen geri bildirimleri kişisel algılamayın; kodunuzu (veya yazınızı) optimize ediyoruz, sizi değil.
+
+## İçerik Standartları
+
+*   **Dil:** Türkçe (Resmi, teknik ve felsefi terminolojiye uygun).
+*   **Format:** Standart Markdown.
+*   **Stil:** Kısa paragraflar, net başlıklar. "Wall of text"ten kaçının.
 
 ---
-**"Kolaylaştırınız, zorlaştırmayınız; müjdeleyiniz, nefret ettirmeyiniz."**
+*Her commit, entropiye karşı bir zaferdir.*

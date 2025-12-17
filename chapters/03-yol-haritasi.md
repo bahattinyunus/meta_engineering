@@ -1,46 +1,35 @@
-# Bölüm III: Seyr-i Süluk: Meta-Mühendisin Yol Haritası
+# Bölüm 3: Yol Haritası
 
-> *"Yol odur ki, Hakk'a vara."*
+## Meta-Mühendislik Yetkinlikleri
 
-Meta-Mühendislik bir meslek değil, bir tekamül yolculuğudur (Seyr-i Süluk). Bu, "30 Günde Python" kursu değil; bir ömürlük disiplindir.
+Bir Meta-Mühendis (Meta-Engineer) olmak için gereken yetenek seti, klasik T-modeli (bir konuda derin, diğerlerinde sığ) yetkinlik setinden farklıdır. Burada "X-modeli" (bağlantısal yetkinlik) devreye girer.
 
-## 3.1. Zülcenaheyn (İki Kanatlı) Mühendis
+### 1. Temel Okuryazarlık (The Base)
+*   **Python:** Yeni çağın İngilizcesi.
+*   **İstatistik ve Olasılık:** AI'nın dilini anlamak için.
+*   **Sistem Düşüncesi (Systems Thinking):** Parçaları değil, bütünü yönetmek.
 
-Eskiler, hem dünyevi ilimlere hem manevi ilimlere vakıf olanlara "Zülcenaheyn" (İki Kanatlı) derdi. Tek kanatla kuş uçmaz.
-*   **Sol Kanat (Madde):** Kök disiplininiz. Yazılım, Makine veya Tıp. Burası sizin "Esbab" (Sebepler) dairenizdir.
-*   **Sağ Kanat (Mana/AI):** Büyük resmi gören, AI ile veriyi hikmete dönüştüren kanadınız.
-*   **Gövde (Mimar):** Bu iki kanadı dengeleyen "Mizan" sahibi bir akıl.
+### 2. Yapay Zeka Hakimiyeti (The Core)
+*   **Prompt Engineering & Chain-of-Thought:** Modeli yönlendirme sanatı.
+*   **RAG (Retrieval-Augmented Generation):** Kurumsal hafızayı AI'ya entegre etmek.
+*   **Fine-tuning:** Özel görevler için uzman modeller eğitmek.
 
-## 3.2. Niyet Mimarisi (Prompt Engineering'in Ötesi)
+### 3. Mühendislik Sentezi (The Synthesis)
+*   Farklı disiplinlerin (mekanik, elektronik, yazılım) temel prensiplerini bilmek (uzmanı olmak değil, prensiplerini bilmek).
+*   AI'ya "doğru soruyu sorma" yeteneği.
 
-AI'ya "Bana kod yaz" demek, emir vermektir.
-Ona "Düşünce Zincirleri" (Chain of Thought - Tefekkür Silsilesi) kurdurmak ise onu terbiye etmektir.
+## Öğrenme Patikası
 
-**Örnek: Ağaç Yöntemi (Tree of Thoughts) ile Karar Verme**
-Klasik Prompt: *"Bana bir login sistemi yaz."*
-Meta-Prompt: *"Bir login sistemi tasarlayacağız. Üç farklı yaklaşım (JWT, OAuth, Session) düşün. Her birinin güvenlik (Emanet), hız (İktisat) ve maliyet (İsraf) açısını değerlendir. Sonra en 'Hayırlı' olanı seç."*
+### Seviye 1: Çırak (The Apprentice)
+*   Copilot/ChatGPT ile kod yazma hızını %300 artırmak.
+*   Basit otomasyon scriptleri yazarak kendi iş akışını yönetmek.
 
-Bu, makineye **tefekkür ettirmektir.**
+### Seviye 2: Kalfa (The Journeyman)
+*   Kendi AI ajanlarını (Agents) tasarlayıp çalıştırmak.
+*   Karmaşık projelerde AI'yı bir "takım arkadaşı" gibi yönetmek.
+*   Model halüsinasyonlarını tespit edip düzeltebilmek.
 
-## 3.3. Ajan Bazlı Mimari: Şahs-ı Manevi ve İstişare
-
-Geleceğin yazılımları monolitik (tek adam) yapılar değil; birbirini denetleyen, birbiriyle konuşan "Cemaat" (Agent Swarm) yapıları olacaktır.
-
-**Örnek Senaryo: Otonom İnşaat Ekibi**
-1.  **Mimar Ajan:** Planı çizer (Nakkaş).
-2.  **Mühendis Ajan:** Kodu yazar (Amel).
-3.  **Güvenlik Ajanı (Müfettiş):** Açıkları kontrol eder (Nefis Muhasebesi).
-4.  **Proje Yöneticisi:** Aradaki uyumu sağlar (İmam).
-
-Bu yapı, "Şahs-ı Manevi" (Tüzel Kişilik) hükmündedir. Hata payını minimize eder.
-
-## 3.4. Haftalık Riyazet Programı (Learning Path)
-
-Bu yola girmek isteyen bir talip için örnek müfredat:
-
-*   **1. Hafta (Tefekkür):** LLM'lerin çalışma mantığını (Transformer) öğren. Ama matematiğini değil, felsefesini (Attention Mechanism = "Nereye bakarsan onu görürsün") anla.
-*   **2. Hafta (Dil):** Prompt Mühendisliğini öğren. AI ile konuşma adabını (Lisan-ı Münasip) geliştir.
-*   **3. Hafta (Amel):** Cursor veya Copilot ile ilk projenin iskeletini kur. Kodu sen yazma, sen yönet.
-*   **4. Hafta (İstişare):** İlk AI Ajan ekibini (AutoGPT veya CrewAI) kur. Onları birbiriyle konuştur.
-
-Az zamanda çok ve bereketli iş (Amel-i Salih) yapmanın sırrı budur.
+### Seviye 3: Usta (The Master / Meta-Engineer)
+*   Sıfırdan otonom mühendislik sistemleri kurmak.
+*   Çoklu ajan (Multi-agent) sistemleri orkestre etmek.
+*   Disiplinlerarası (örneğin biyoloji + yazılım) yeni çözümler sentezlemek.

@@ -1,33 +1,18 @@
-# Bölüm VII: Nimet Ekonomisi: Zeka ve Bereket
+# Bölüm 7: Zekanın Ekonomisi
 
-> *"Mülk O'nundur."*
+## Marjinal Maliyetin Sıfıra İnişi
 
-Ekonomi, kıt kaynakların yönetimidir.
-Ama teknoloji geliştikçe, kıtlık yerini bolluğa (Nimetin artmasına) bırakır.
-Buhar devrimi "Fiziksel Gücü" bollaştırdı.
-Yapay Zeka devrimi "Bilişsel Gücü" bollaştırıyor.
+Yazılım dünyasında bir kopyayı dağıtmanın maliyeti sıfıra yakındır. Meta-Mühendislik ile birlikte, **mühendislik hizmetinin (intelligence)** marjinal maliyeti de sıfıra yaklaşmaktadır.
 
-## 7.1. Zekanın Metalaşması: Nimetin Umuma Yayılması
+Eskiden bir binanın statik projesini çizdirmek binlerce dolara mal olurken, özelleşmiş bir AI ajanı bunu birkaç cent (elektrik ve GPU maliyeti) karşılığında yapabilir.
 
-Eskiden "bilgiye erişim" bir ayrıcalıktı (Havas). Şimdi ise herkesin elinde (Avam).
-Bir LLM asistanı, en zeki alimlerin verisine saniyede ulaşıp önünüze seriyor.
+## Değer Zincirinde Kayma
 
-Bu durum, zekayı bir "üstünlük" olmaktan çıkarıp, bir "altyapı" (Su gibi, hava gibi) haline getiriyor.
-Soru şu: **Allah'ın verdiği bu bol nimeti (işlem gücü/zeka) ne uğruna kullanacaksın?**
+Hizmet (Servis) ekonomisinden, **Varlık (Asset)** ekonomisine geçiş.
+*   Eski Model: Saatlik ücretle mühendislik hizmeti satmak.
+*   Yeni Model: Mühendislik yapan sistemi (Asset) tasarlayıp lisanslamak.
 
-## 7.2. Yeni Para Birimi: Enerji (Compute)
+Meta-Mühendisler, "iş yapan" değil, "iş yapan makineleri yapan" kişiler olarak ekonominin en tepesine yerleşirler.
 
-Gelecekte belki de "Dolar/TL" değil, "Watt/Saat" konuşacağız.
-**Formül:** `Rızık (Değer) = Enerji (Watt) x Zeka (Model) x Niyet (Prompt)`
-
-Bir Meta-Mühendis, bu enerjiyi yöneten ve adaletle dağıtan "Veznedar" gibidir.
-*   Bitcoin madenciliği yapmak mı? (Spekülasyon)
-*   Kanser ilacı araştıran bir AI çalıştırmak mı? (Şifa)
-1 Watt enerji, şer için de kullanılır, hayır için de. Tercih (Cüz-i İrade) sizindir.
-
-## 7.3. İnfak Kültürü: Açık Kaynak
-
-Bilgi paylaşıldıkça çoğalır (Bereket).
-Kapalı kaynak kodlar (Proprietary), "cimrilik" alametidir.
-Açık kaynak (Open Source), "cömertlik" ve "sadaka-i cariye"dir.
-Meta-Mühendis, bilgisini mezara götüren değil; GitHub'a pusulayan kişidir.
+### Yeni Para Birimi: Compute
+Geleceğin ekonomisinde altın veya dolar değil, "Compute" (Hesaplama Gücü) en değerli emtiadır. Meta-Mühendis, bu kaynağı en verimli şekilde ürüne dönüştüren simyacıdır.
